@@ -6,7 +6,7 @@ Pieter Ayal
 ## Compilation
 To compile the solver on CS Linux machines, run:
 ```bash
-rustc -O main.rs -o solver
+rustc -O main.rs -o sat_solver
 ```
 
 ## Usage
