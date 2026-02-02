@@ -1,5 +1,6 @@
 # rustSAT
-A naive DPLL SAT solver implemented in Rust for the COMP21111 SAT Solver Competition.
+A DPLL SAT solver implemented in Rust for the COMP21111 SAT Solver Competition. 
+Came 2nd place in competition amongst participants.
 ## Author
 Pieter Ayal
 
